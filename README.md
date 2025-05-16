@@ -57,8 +57,11 @@ Chaque entreprise dispose de son propre compte sécurisé via **Spring Security*
 ## 🧱 Architecture du projet
 
 - Architecture **MVC** (Model - View - Controller)
+- 
 - Séparation claire des couches : `controller`, `service`, `repository`, `model`, `dto`
+- 
 - Frontend basé sur **JSF** + **PrimeFaces**
+- 
 - Backend REST avec **Spring Boot**
 
 ## 📁 Structure recommandée
@@ -90,27 +93,29 @@ gestion_employes/
 🛣️ Objectifs
 
  Création des entités principales
+
  Mise en place de l'authentification sécurisée
+
  Implémentation de la base de données avec Flyway
+
  Intégration de PrimeFaces pour le front
 
 🚀 Long terme
  Génération de rapports RH 📊
 
  Export des fiches employé en PDF/Excel 📄
+
  Statistiques dynamiques des employés 📈
+
  Gestion multilingue (fr/en) 🌍
+
  Interface Super-Admin globale 🧑‍💼
+
  Déploiement sur un serveur distant ☁️
 
 📷 Aperçu (à venir)
 Ajoutez ici des captures d’écran de l’interface une fois disponible.
 
-### 📄 Page d'ajout des contrats
-![Page ajout contrats](Page_Ajout_Contrats.png)
-
-### 👤 Page d'ajout d'employé
-![Page ajout employé](Page_Ajout_Employe.png)
 
 📜 Licence
 Ce projet est open-source et peut être utilisé à des fins éducatives ou professionnelles.
