@@ -106,7 +106,11 @@ gestion_employes/
 📷 Aperçu (à venir)
 Ajoutez ici des captures d’écran de l’interface une fois disponible.
 
-![Genstion_Employer](https://github.com/user-attachments/assets/61fc4683-4f34-43c7-93f1-2b789180c0f7)
+### 📄 Page d'ajout des contrats
+![Page ajout contrats](Page_Ajout_Contrats.png)
+
+### 👤 Page d'ajout d'employé
+![Page ajout employé](Page_Ajout_Employe.png)
 
 📜 Licence
 Ce projet est open-source et peut être utilisé à des fins éducatives ou professionnelles.
