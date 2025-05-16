@@ -88,13 +88,10 @@ gestion_employes/
 └── README.md
 
 🛣️ Objectifs
-📆 Court terme
+
  Création des entités principales
-
  Mise en place de l'authentification sécurisée
-
  Implémentation de la base de données avec Flyway
-
  Intégration de PrimeFaces pour le front
 
 🚀 Long terme
@@ -109,18 +106,10 @@ gestion_employes/
 📷 Aperçu (à venir)
 Ajoutez ici des captures d’écran de l’interface une fois disponible.
 
+![Genstion_Employer](https://github.com/user-attachments/assets/61fc4683-4f34-43c7-93f1-2b789180c0f7)
+
 📜 Licence
 Ce projet est open-source et peut être utilisé à des fins éducatives ou professionnelles.
-
-# 🧑‍💼 Gestion des Employés - Application Web d'entreprise
-
-![Java](https://img.shields.io/badge/Java-17-blue.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen)
-![JSF](https://img.shields.io/badge/JSF-PrimeFaces-purple)
-![Tests](https://img.shields.io/badge/Test%20Coverage-80%25-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Status-En%20cours-yellow)
-
 
 👨‍💻 Auteur
 Annisse Artadji – Développeur Fullstack / Designer / Admin systeme (linux et windows)
