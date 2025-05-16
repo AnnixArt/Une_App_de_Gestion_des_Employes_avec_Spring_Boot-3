@@ -8,14 +8,10 @@ Cette application permet à chaque entreprise de gérer ses propres directions, 
 
 Chaque entreprise possède un **profil sécurisé** et n'a accès **qu'à ses propres données**. Elle peut :
 
-- Créer et gérer les informations de son entreprise 🏢
-- 
-- Ajouter, modifier ou supprimer ses directions 📂
-- 
+- Créer et gérer les informations de son entreprise 🏢 
+- Ajouter, modifier ou supprimer ses directions 📂 
 - Gérer les employés d’une direction 👥
-- 
 - Visualiser une fiche détaillée par employé 📄
-- 
 - Suivre les expériences professionnelles des salariés 🧳
 
 ## 🛠️ Technologies utilisées
@@ -36,17 +32,11 @@ Chaque entreprise possède un **profil sécurisé** et n'a accès **qu'à ses pr
 ## ✨ Fonctionnalités principales
 
 - ✅ Créer une entreprise (nom, adresse, site web, secteur d'activité)
-  
 - ✅ Lister les directions d’une entreprise
- 
-- ✅ Ajouter une direction avec ses employés
-  
+- ✅ Ajouter une direction avec ses employés  
 - ✅ Afficher les informations d’une direction (nom, directeur, employés)
-  
 - ✅ Ajouter un employé à une direction
-  
 - ✅ Modifier les informations d’un employé
-  
 - ✅ Afficher la fiche complète d’un employé :
   
   - Nom, Prénom
@@ -67,11 +57,8 @@ Chaque entreprise dispose de son propre compte sécurisé via **Spring Security*
 ## 🧱 Architecture du projet
 
 - Architecture **MVC** (Model - View - Controller)
-  
 - Séparation claire des couches : `controller`, `service`, `repository`, `model`, `dto`
- 
 - Frontend basé sur **JSF** + **PrimeFaces**
-  
 - Backend REST avec **Spring Boot**
 
 ## 📁 Structure recommandée
@@ -114,13 +101,9 @@ gestion_employes/
  Génération de rapports RH 📊
 
  Export des fiches employé en PDF/Excel 📄
-
  Statistiques dynamiques des employés 📈
-
  Gestion multilingue (fr/en) 🌍
-
  Interface Super-Admin globale 🧑‍💼
-
  Déploiement sur un serveur distant ☁️
 
 📷 Aperçu (à venir)
