@@ -114,7 +114,7 @@ gestion_employes/
  Déploiement sur un serveur distant ☁️
 
 📷 Aperçu (à venir)
-Ajoutez ici des captures d’écran de l’interface une fois disponible.
+voir dans le ficier du projet 
 
 
 📜 Licence
