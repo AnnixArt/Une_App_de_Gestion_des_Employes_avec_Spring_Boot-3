@@ -57,11 +57,11 @@ Chaque entreprise dispose de son propre compte sécurisé via **Spring Security*
 ## 🧱 Architecture du projet
 
 - Architecture **MVC** (Model - View - Controller)
-- 
+  
 - Séparation claire des couches : `controller`, `service`, `repository`, `model`, `dto`
-- 
+  
 - Frontend basé sur **JSF** + **PrimeFaces**
-- 
+ 
 - Backend REST avec **Spring Boot**
 
 ## 📁 Structure recommandée
